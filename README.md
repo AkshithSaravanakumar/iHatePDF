@@ -9,7 +9,7 @@
 ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝  ᴘᴅꜰ
 ```
 
-> **Because PDFs are annoying.**
+> **You Know Who**
 
 **iHatePDF** is a lightweight, offline Python CLI utility for manipulating PDFs and images locally on your machine without relying on external web servers, uploads, or AI APIs.
 
